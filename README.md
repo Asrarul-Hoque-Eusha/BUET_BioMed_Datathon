@@ -1,2 +1,4 @@
 # BUET_BioMed_Datathon
-A
+
+**We have participated in BUET BioMed Datathon 2024 and secured 10th position.** *Here is the problem description:*
+The BioMed Datathon challenges participants to develop AI algorithms capable of accurately diagnosing cardiovascular diseases (CVD) from heart sound recordings. Leveraging the BUET Multi-disease Heart Sound (BMD-HS) Dataset, participants must predict the presence of common valvular abnormalities, including **Aortic Stenosis (AS), Aortic Regurgitation (AR), Mitral Stenosis (MS), and Mitral Regurgitation (MR)**, along with identifying **normal cardiac states**. With multi-label annotations, participants are challenged to develop algorithms that can effectively discern between different cardiac conditions solely from audio data. By successfully addressing this problem, participants contribute to advancing automated CVD diagnosis, particularly in underserved regions, and support the development of AI-driven diagnostic tools for improved healthcare outcomes.
